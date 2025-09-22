@@ -1,12 +1,11 @@
 # ft_linear_regression
 
-**Projet d’introduction au Machine Learning (42).**  
-Ce dépôt présente une implémentation **from scratch** d’un modèle de régression linéaire, sans utiliser de bibliothèques spécialisées en apprentissage automatique (scikit-learn, TensorFlow, PyTorch).  
+Ce dépôt présente une implémentation from scratch d’un modèle de régression linéaire, sans utiliser de bibliothèques spécialisées en apprentissage automatique (scikit-learn, TensorFlow, PyTorch).  
 
-L’objectif est de prédire le **prix d’un véhicule en fonction de son kilométrage**, en implémentant :  
+L’objectif est de prédire le prix d’un véhicule en fonction de son kilométrage, en implémentant :  
 
 - La fonction de coût (Mean Squared Error)  
-- La mise à jour des paramètres via **Gradient Descent**  
+- La mise à jour des paramètres via Gradient Descent
 - La persistance du modèle entraîné  
 - Une visualisation de la convergence et de la droite de régression  lancer la 
 
