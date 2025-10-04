@@ -1,4 +1,4 @@
-# ft_linear_regression
+# Predictive-Modeling-Using-Linear-Regression
 
 Ce dépôt présente une implémentation from scratch d’un modèle de régression linéaire, sans utiliser de bibliothèques spécialisées en apprentissage automatique (scikit-learn, TensorFlow, PyTorch).  
 
